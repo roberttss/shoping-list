@@ -105,19 +105,3 @@ ul li:nth-child(odd) {
   .addBtn:hover {
     background-color: #bbb;
   }
-
-  #clear-list{
-    width: 30%;
-    font-weight: bold;
-    font-style: italic;
-    font-size: xx-large;
-    font-family: "Times New Roman";
-    margin: 40px 35%;
-    background-color: rgb(25, 81, 146);
-    color: white;
-  }
-
-  #clear-list:hover{
-    background-color: darkblue;
-    color: white;
-  }
