@@ -38,7 +38,7 @@ ul li:nth-child(odd) {
 
   ul li.checked {
     background: rgb(15, 134, 79);
-    color: rgb(175, 34, 34);
+    color: rgb(0, 0, 0);
     text-decoration: line-through;
   }
 
@@ -63,7 +63,7 @@ ul li:nth-child(odd) {
   }
 
   .close:hover {
-    background-color: crimson;
+    background-color: rgb(133, 8, 8);
     color: white;
   }
 
